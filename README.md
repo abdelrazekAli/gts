@@ -1,2 +1,6 @@
 # GTS
-#### Demo: https://abdelrazekali.github.io/gts
+> Website for a construction company
+
+### Website Demo
+
+https://abdelrazekali.github.io/gts
